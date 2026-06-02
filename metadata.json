@@ -1,0 +1,6 @@
+{
+  "name": "FLEXAI",
+  "description": "Futuristic WebView application for FLEXAI website, featuring smart offline caching, offline page storage, and intuitive sleep/rest notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
